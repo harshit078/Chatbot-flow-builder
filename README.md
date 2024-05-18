@@ -18,11 +18,9 @@ This is a chatbot flow builder. It allows you to create a chatbot flow by draggi
 2. npm install
     
 
-3. Start the server
-    
-        ```
+3. Start the server   
+
         npm run dev
-        ```
 
 ## Tech Stack
 
